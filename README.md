@@ -8,5 +8,6 @@ profile updation page
 
 Database is created with xampp control panel . Refer snapshots for better understanding .
 Uploaded png files are screenshots of the obtained output , jpeg files are resources used in the development of the above mentioned web pages . profile.jpg is a picture used as a profile in profile page .
+Bootstrap was installed in the system and these files are stored in the same bootstrap folder within which css and js folder are present .
 
-Make sure bootstrap is installed in the system and these files are stored in the same bootstrap folder within which css and js folder are present .
+{ Updated from previous project , LaravelProject_Activity2 }
